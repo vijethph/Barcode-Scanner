@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR Scanner Zbar</string>
+    <string name="output">Output:</string>
+</resources>
