@@ -1,0 +1,3 @@
+pyzbar==0.1.8
+Kivy==1.11.1
+opencv_python==4.2.0.34
