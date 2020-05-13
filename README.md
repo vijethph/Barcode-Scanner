@@ -48,6 +48,7 @@
 ## About The Project
 
 <a href="kivyybarcode.png"><img src="kivybarcodd.png" height="250" align="center" width="300" ></a>
+<a href="androidwork.gif"><img src="androidwork.gif" height="300" align="center" width="200" ></a>
 
 This is a Python program, and its equivalent Android app that uses [Kivy Framework](https://kivyy.org) and [ZBar](http://zbar.sourceforge.net/) library to recognize all forms of QR codes and barcodes, using the device camera, parses it into text/link (depending on the QR code / barcode) and allows the user to open the link, or search for the text in their respective Web Browser.
 
